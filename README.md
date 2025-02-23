@@ -14,9 +14,9 @@ Name - Kaung Nyo Lwin
 ID - st125066
 
 ## Installation and Setup
-run BERT and S-BERT notebooks
-run "docker compose up"
-Webapp at localhost:9999
+    run BERT and S-BERT notebooks
+    run "docker compose up"
+    Webapp at localhost:9999
 
 ## Model evaluation
 | Model Type       | SNLI Accuracy |
@@ -24,10 +24,10 @@ Webapp at localhost:9999
 | S-BERT(scratch)	 |         35.090909 |
 
 ## Model config
-n_layers - 12    (number of Encoder of Encoder Layer)
-n_heads  - 12    (number of heads in Multi-Head Attention)
-d_model  - 768   (Embedding Size)
-num_epoch - 2
+    n_layers - 12    (number of Encoder of Encoder Layer)
+    n_heads  - 12    (number of heads in Multi-Head Attention)
+    d_model  - 768   (Embedding Size)
+    num_epoch - 2
 
 ## Web 
 <img src="./figures/a4_web.png" width="600" length="400"/>
