@@ -14,7 +14,6 @@ Name - Kaung Nyo Lwin
 ID - st125066
 
 ## Installation and Setup
-    run BERT and S-BERT notebooks
     run "docker compose up"
     Webapp at localhost:9999
 
